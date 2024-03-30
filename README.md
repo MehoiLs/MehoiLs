@@ -16,6 +16,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/liquibase/liquibase-original.svg" title="Liquibase" alt="Liquibase" width="50" height=50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" title="Hibernate" alt="Hibernate" width="50" height=50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit" alt="JUnit" width="50" height=50"/>
+    <img src="https://avatars.githubusercontent.com/u/13393021?s=280&v=4" title="TestContainers" alt="TestContainers" width="50" height=50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="50" height=50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/logstash/logstash-original.svg" title="Logstash" alt="Logstash" width="50" height=50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="50" height=50"/>
@@ -73,7 +74,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="50" height=50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kibana" alt="Kibana" width="50" height=50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height=50" />
-  <img src="https://avatars.githubusercontent.com/u/13393021?s=280&v=4" title="TestContainers" alt="TestContainers" width="50" height=50" />
 </div>
 
   
